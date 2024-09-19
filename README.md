@@ -91,6 +91,8 @@ R^2 Score: 0.9710223249491007
     
 -   The  **R² Score**  (coefficient of determination) measures how well the model explains the variance in the target variable (selling price). An R² score of  **0.971**  indicates that  **97.1% of the variance**  in the car selling prices can be explained by the model. This is a very high value, suggesting that the supervised learning model fits the data well and makes accurate predictions.
 
+# Kaggle
 
+https://www.kaggle.com/models/denizaltunay/supervised_car_prices
 
 
